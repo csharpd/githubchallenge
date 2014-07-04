@@ -1,1 +1,2 @@
-Explain what the "upstream" remote is usually used for 
+Explain what the "upstream" remote is usually used for
+The upstream remote refers to the orignal repository from where you cloned the code. The default remote is called origin and points to the fork on YOUR github
